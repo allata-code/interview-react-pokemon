@@ -1,6 +1,6 @@
 # React Interview - Pokemon Picker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As part of the React skills assessment, you will be asked to complete a practical task within the context of this repository.
 
 ## Available Scripts
 
